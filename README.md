@@ -9,6 +9,6 @@ Dans le package service, j'ai renommé l'ancienne classe servicebancaire en serv
                                    ****************************************************
 Veuillez suivre les indications suivantes:
 
-Rendez vous dans le dossier 'site/'.
+Rendez vous dans le dossier 'livrableobjismodule4bis/livraisonproobjismod4/site/'.
 
 Double cliquez sur 'index.html'.
