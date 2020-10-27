@@ -28,10 +28,7 @@ public class ServiceBancaireold {
 	int agios;
 	Scanner saisiegenerale = new Scanner(System.in);
 
-//	public void execthread() {
-//		ServiceThread proc = new ServiceThread();
-//		proc.executecreateaccount();
-//	}
+
 
 	public void operationbancaire() throws CinException, FraisOuvException, AgioException, SitMatException {
 
